@@ -2,21 +2,23 @@ using UnityEditor.ShaderKeywordFilter;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Maingame : MonoBehaviour
+public class MainGame : MonoBehaviour
 {
-    public InputField InputField;
+    private string pseudonyme = " ";
 
-    void Start()
+    void OnGUI()
     {
-        
+        pseudonyme = GUI.TextField(new Rect(435, 65, 115, 20), pseudonyme, 15);
     }
 
-    // Update is called once per frame
-    void Update()
+    public string getPseudo()
     {
-        if(Input.GetButtonDown("Space"))
-        {
-            Debug.Log(InputField);
-        }
+        Debug.Log(pseudonyme); 
+        return pseudonyme;
+    }
+
+    public void DisplayPseudo()
+    {
+        getPseudo();
     }
 }
