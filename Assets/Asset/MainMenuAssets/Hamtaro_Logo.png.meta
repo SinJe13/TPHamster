@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hamtaro_Logo_0: -8388389511585004733
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
