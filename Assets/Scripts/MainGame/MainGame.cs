@@ -1,6 +1,7 @@
 using TMPro;
 using UnityEditor.EditorTools;
 using UnityEngine;
+using static UnityEngine.Rendering.DebugUI.Table;
 
 public class MainGame : MonoBehaviour
 {
@@ -26,7 +27,7 @@ public class MainGame : MonoBehaviour
 
     public void StartQuestions()
     {
-        mainPanel.SetActive(false);
+        //mainPanel.SetActive(false);
         StartCoroutine(animator.Show(questionPanel));
 
         step = 0;
@@ -110,7 +111,7 @@ public class MainGame : MonoBehaviour
     void ShowMain()
     {
         StartCoroutine(animator.Hide(questionPanel));
-        mainPanel.SetActive(true);
+        //mainPanel.SetActive(true);
         UpdateSummary();
     }
 
@@ -128,10 +129,10 @@ public class MainGame : MonoBehaviour
     {
         switch (step)
         {
-            case 0: questionText.text = "Combien de mâles vendre ?"; break;
-            case 1: questionText.text = "Combien de femelles vendre ?"; break;
-            case 2: questionText.text = "Combien de nourriture acheter ?"; break;
-            case 3: questionText.text = "Combien d'accouplements ?"; break;
+            case 0: questionText.text = "How many males do you want to sell ?"; break;
+            case 1: questionText.text = "How many females do you want to sell ?"; break;
+            case 2: questionText.text = "How much food do you want to buy ?"; break;
+            case 3: questionText.text = "How many hamsters do you want to breed ?"; break;
         }
     }
 }
