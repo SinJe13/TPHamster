@@ -1,0 +1,1433 @@
+fileFormatVersion: 2
+guid: 1b59208be9f6c1143beb10a8788b9f39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2552546419906746471
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_0
+  - first:
+      213: -406509741560076610
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_1
+  - first:
+      213: 4630072423818541981
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_2
+  - first:
+      213: 7495928793817891568
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_3
+  - first:
+      213: -2371751048218436403
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_4
+  - first:
+      213: 8220290199074918728
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_5
+  - first:
+      213: 3621679985043365409
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_6
+  - first:
+      213: -8629468371102416630
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_7
+  - first:
+      213: -4880172834485529082
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_8
+  - first:
+      213: -5898462986890793161
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_9
+  - first:
+      213: -4308350383457880095
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_10
+  - first:
+      213: 8782964323076657781
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_11
+  - first:
+      213: 9102013567385203934
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_12
+  - first:
+      213: -6341544172657811780
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_13
+  - first:
+      213: 6201176605856321396
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_14
+  - first:
+      213: -4848856126174969715
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_15
+  - first:
+      213: -2854155955909458362
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_16
+  - first:
+      213: -1095846445600253647
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_17
+  - first:
+      213: 2291243624238411456
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_18
+  - first:
+      213: -4809744841048454387
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_19
+  - first:
+      213: 2807977540771450924
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_20
+  - first:
+      213: -4775154036076414317
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_21
+  - first:
+      213: 3835777792029846520
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_22
+  - first:
+      213: 3165577895670032407
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_23
+  - first:
+      213: 3301679763719366191
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_24
+  - first:
+      213: 7578432700160554282
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_25
+  - first:
+      213: -4250494638660619891
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_26
+  - first:
+      213: 2500161513943178365
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_27
+  - first:
+      213: 375450263605160477
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_28
+  - first:
+      213: -4181312202189518527
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_29
+  - first:
+      213: -8357910467483713009
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_30
+  - first:
+      213: 6330793007855409370
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_31
+  - first:
+      213: -4013492844402776374
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_32
+  - first:
+      213: -1951049495984123006
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_33
+  - first:
+      213: 8717400586588549833
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_34
+  - first:
+      213: -382506090271465520
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_35
+  - first:
+      213: 1617129784461669243
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_36
+  - first:
+      213: -6157675927720197536
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_37
+  - first:
+      213: -5727068357598369419
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_38
+  - first:
+      213: 2163475856638662723
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_39
+  - first:
+      213: -3737205784920269541
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_40
+  - first:
+      213: 7785241681524465324
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_41
+  - first:
+      213: 8292298051898087465
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_42
+  - first:
+      213: -7310597779004215889
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_43
+  - first:
+      213: -7233956580825584389
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_44
+  - first:
+      213: 586882797064670917
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_45
+  - first:
+      213: 8966590662534469033
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Jingle_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 246
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99763c81e88839cd0800000000000000
+      internalID: -2552546419906746471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 236
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb663983b89cb5af0800000000000000
+      internalID: -406509741560076610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b390a9652514040800000000000000
+      internalID: 4630072423818541981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f24329d583e60860800000000000000
+      internalID: 7495928793817891568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 208
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc974bdcf8d51fd0800000000000000
+      internalID: -2371751048218436403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 180
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8415c721266541270800000000000000
+      internalID: 8220290199074918728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 208
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ed6a602cac24230800000000000000
+      internalID: 3621679985043365409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 180
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01c8f3cc38fd3880800000000000000
+      internalID: -8629468371102416630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 208
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6069afdc9a4264cb0800000000000000
+      internalID: -4880172834485529082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 180
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fa5913a23742ea0800000000000000
+      internalID: -5898462986890793161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 208
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e73312272aa534c0800000000000000
+      internalID: -4308350383457880095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 180
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572d9e7848b53e970800000000000000
+      internalID: 8782964323076657781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4f7c07d19d05e70800000000000000
+      internalID: 9102013567385203934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe58458c2f4ef7a0800000000000000
+      internalID: -6341544172657811780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_14
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 151
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f478d84410f0650800000000000000
+      internalID: 6201176605856321396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 122
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d804d582b0765bcb0800000000000000
+      internalID: -4848856126174969715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 151
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6468372b7400468d0800000000000000
+      internalID: -2854155955909458362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 122
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1395f99b675cac0f0800000000000000
+      internalID: -1095846445600253647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_18
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 151
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ceeb9ccfe12ccf10800000000000000
+      internalID: 2291243624238411456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 122
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b0a09dc8a504db0800000000000000
+      internalID: -4809744841048454387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_20
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 151
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2015fe22b0f7f620800000000000000
+      internalID: 2807977540771450924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_21
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 122
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a74eb34be3bbdb0800000000000000
+      internalID: -4775154036076414317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb654b349b6b3530800000000000000
+      internalID: 3835777792029846520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_23
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 90
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718ad3cf2546eeb20800000000000000
+      internalID: 3165577895670032407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_24
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 60
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26a696804ce1dd20800000000000000
+      internalID: 3301679763719366191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 90
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25364773600c2960800000000000000
+      internalID: 7578432700160554282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_26
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 90
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d817eee65a53305c0800000000000000
+      internalID: -4250494638660619891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_27
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 90
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c9fa786ab52b220800000000000000
+      internalID: 2500161513943178365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 90
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a2309860ed53500800000000000000
+      internalID: 375450263605160477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_29
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 90
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149cc75a4bef8f5c0800000000000000
+      internalID: -4181312202189518527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f024d1146bcb20c80800000000000000
+      internalID: -8357910467483713009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad89fbbd2be7bd750800000000000000
+      internalID: 6330793007855409370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 33
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6ecccb5853d48c0800000000000000
+      internalID: -4013492844402776374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_33
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 33
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28359ac02da7ce4e0800000000000000
+      internalID: -1951049495984123006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_34
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 60
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2746095ad6af870800000000000000
+      internalID: 8717400586588549833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_35
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 33
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df12fcccb011baf0800000000000000
+      internalID: -382506090271465520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_36
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 60
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73ba8698f2317610800000000000000
+      internalID: 1617129784461669243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_37
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 33
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06283465e5a8b8aa0800000000000000
+      internalID: -6157675927720197536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_38
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 33
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57928fc0cad5580b0800000000000000
+      internalID: -5727068357598369419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_39
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 33
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348d41b34d5360e10800000000000000
+      internalID: 2163475856638662723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_40
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 33
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1dda41a327c22cc0800000000000000
+      internalID: -3737205784920269541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae94d5bf0cba0c60800000000000000
+      internalID: 7785241681524465324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_42
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9289c0bc429241370800000000000000
+      internalID: 8292298051898087465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_43
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fada1be9d0a8b8a90800000000000000
+      internalID: -7310597779004215889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_44
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcaa4f11d2db9b90800000000000000
+      internalID: -7233956580825584389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_45
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cec3d36bc6052800800000000000000
+      internalID: 586882797064670917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Jingle_46
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a593b653babf6c70800000000000000
+      internalID: 8966590662534469033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_0: -2552546419906746471
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_1: -406509741560076610
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_10: -4308350383457880095
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_11: 8782964323076657781
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_12: 9102013567385203934
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_13: -6341544172657811780
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_14: 6201176605856321396
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_15: -4848856126174969715
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_16: -2854155955909458362
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_17: -1095846445600253647
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_18: 2291243624238411456
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_19: -4809744841048454387
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_2: 4630072423818541981
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_20: 2807977540771450924
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_21: -4775154036076414317
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_22: 3835777792029846520
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_23: 3165577895670032407
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_24: 3301679763719366191
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_25: 7578432700160554282
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_26: -4250494638660619891
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_27: 2500161513943178365
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_28: 375450263605160477
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_29: -4181312202189518527
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_3: 7495928793817891568
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_30: -8357910467483713009
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_31: 6330793007855409370
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_32: -4013492844402776374
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_33: -1951049495984123006
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_34: 8717400586588549833
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_35: -382506090271465520
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_36: 1617129784461669243
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_37: -6157675927720197536
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_38: -5727068357598369419
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_39: 2163475856638662723
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_4: -2371751048218436403
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_40: -3737205784920269541
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_41: 7785241681524465324
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_42: 8292298051898087465
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_43: -7310597779004215889
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_44: -7233956580825584389
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_45: 586882797064670917
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_46: 8966590662534469033
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_5: 8220290199074918728
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_6: 3621679985043365409
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_7: -8629468371102416630
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_8: -4880172834485529082
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Jingle_9: -5898462986890793161
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
