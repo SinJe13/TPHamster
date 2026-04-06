@@ -1,0 +1,3029 @@
+fileFormatVersion: 2
+guid: a5926c1b35fd20c4ab97a672c83fa0ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6015755496852836453
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_0
+  - first:
+      213: 8772285796098946910
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_1
+  - first:
+      213: -8057253778714946308
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_2
+  - first:
+      213: 5693566498732832760
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_3
+  - first:
+      213: 3673383232471923619
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_4
+  - first:
+      213: -6819318899239270934
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_5
+  - first:
+      213: 673776685475838412
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_6
+  - first:
+      213: -7014305690818178680
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_7
+  - first:
+      213: -1800058683249027181
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_8
+  - first:
+      213: -6650382555921312373
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_9
+  - first:
+      213: 3207302278501306369
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_10
+  - first:
+      213: -879032316000971109
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_11
+  - first:
+      213: 2610886555105172194
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_12
+  - first:
+      213: 6436030559383090674
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_13
+  - first:
+      213: -3704950168662312610
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_14
+  - first:
+      213: -4127182426635609142
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_15
+  - first:
+      213: -2486355247845365613
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_16
+  - first:
+      213: 51071230205793178
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_17
+  - first:
+      213: 3959539872219050431
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_18
+  - first:
+      213: -7599279556750576633
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_19
+  - first:
+      213: -8280260147793299455
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_20
+  - first:
+      213: -8052864810290574166
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_21
+  - first:
+      213: -6956824410738073570
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_22
+  - first:
+      213: 3475443859678019912
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_23
+  - first:
+      213: 3060080838968093628
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_24
+  - first:
+      213: 6796306748051391645
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_25
+  - first:
+      213: -6215650257364492220
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_26
+  - first:
+      213: 2142589182266525618
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_27
+  - first:
+      213: -8021325010995190911
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_28
+  - first:
+      213: 3033935205895828468
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_29
+  - first:
+      213: 3399463643089412317
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_30
+  - first:
+      213: 1519751231139753991
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_31
+  - first:
+      213: 488645615790725062
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_32
+  - first:
+      213: 7099767991585036580
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_33
+  - first:
+      213: 6282132997286440958
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_34
+  - first:
+      213: 4384007318386707882
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_35
+  - first:
+      213: -2114153019385288746
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_36
+  - first:
+      213: 473385627701744458
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_37
+  - first:
+      213: -1644480730418890051
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_38
+  - first:
+      213: 7740953925573569570
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_39
+  - first:
+      213: -7490896757363715474
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_40
+  - first:
+      213: 2747480619073067439
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_41
+  - first:
+      213: -7174118357253582550
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_42
+  - first:
+      213: -8069970755006057438
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_43
+  - first:
+      213: 8272969929822162408
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_44
+  - first:
+      213: -1548430747095030570
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_45
+  - first:
+      213: 6573716008314691741
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_46
+  - first:
+      213: -3772210837045901993
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_47
+  - first:
+      213: 4494475319783245383
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_48
+  - first:
+      213: 6507770957598133684
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_49
+  - first:
+      213: 8609531753278337425
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_50
+  - first:
+      213: 1167300150216098147
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_51
+  - first:
+      213: 3644704321116575116
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_52
+  - first:
+      213: 7958873389792659830
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_53
+  - first:
+      213: -3157487263511538094
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_54
+  - first:
+      213: -816866574044592031
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_55
+  - first:
+      213: -1488042368395107340
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_56
+  - first:
+      213: 5270946288407727775
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_57
+  - first:
+      213: -3023455499810371167
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_58
+  - first:
+      213: -1124384662981192272
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_59
+  - first:
+      213: 3211424292917538955
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_60
+  - first:
+      213: -2963845243311195724
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_61
+  - first:
+      213: -4534806925534459865
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_62
+  - first:
+      213: -3816647686666251908
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_63
+  - first:
+      213: -7770706399941631443
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_64
+  - first:
+      213: -4770669070824266376
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_65
+  - first:
+      213: 4928252065655089699
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_66
+  - first:
+      213: -1674696665919532945
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_67
+  - first:
+      213: 7531609128593599439
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_68
+  - first:
+      213: -8275417639619882400
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_69
+  - first:
+      213: -5438069139234133625
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_70
+  - first:
+      213: 5087331971653363736
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_71
+  - first:
+      213: 1866734948270051132
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_72
+  - first:
+      213: 5536085276917563427
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_73
+  - first:
+      213: -1367073671881203729
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_74
+  - first:
+      213: 3170667208094249684
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_75
+  - first:
+      213: 8612133530489266136
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_76
+  - first:
+      213: -7930190253553791168
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_77
+  - first:
+      213: 9036457896983438365
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_78
+  - first:
+      213: -7411655898014680692
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_79
+  - first:
+      213: 3222230330354294701
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_80
+  - first:
+      213: -1179003920207777395
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_81
+  - first:
+      213: 2905200782292142769
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_82
+  - first:
+      213: -2931040232176569603
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_83
+  - first:
+      213: -6877326720046657493
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_84
+  - first:
+      213: 887714875048805239
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_85
+  - first:
+      213: 8941366711283634913
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_86
+  - first:
+      213: 4064312820804875138
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_87
+  - first:
+      213: 8701670306836671404
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_88
+  - first:
+      213: 1580151059502951709
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_89
+  - first:
+      213: 1844099964319778436
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_90
+  - first:
+      213: 7928937758741360718
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_91
+  - first:
+      213: 624430976817589580
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_92
+  - first:
+      213: -6047007285101677753
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_93
+  - first:
+      213: -7078983687885736614
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_94
+  - first:
+      213: 8951243467227773146
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_95
+  - first:
+      213: 3936397626308072208
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_96
+  - first:
+      213: 4374642974777119641
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_97
+  - first:
+      213: -3797918172047540825
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_98
+  - first:
+      213: 2240452229336936251
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_99
+  - first:
+      213: 3870408956318002631
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_100
+  - first:
+      213: -7908289438946075196
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_101
+  - first:
+      213: -1597903479476445383
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_102
+  - first:
+      213: 4428779485244496439
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_103
+  - first:
+      213: 1521398523918669133
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_104
+  - first:
+      213: 2923174412572292805
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_105
+  - first:
+      213: 5706641678334408305
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_106
+  - first:
+      213: 1698960971699377826
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_107
+  - first:
+      213: -8395005522308377058
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_108
+  - first:
+      213: -2239589473199710562
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_109
+  - first:
+      213: 1081732699217259335
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_110
+  - first:
+      213: 6602359741756995871
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fab7a9f3eb38ca0800000000000000
+      internalID: -6015755496852836453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 242
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57bea8347b6db970800000000000000
+      internalID: 8772285796098946910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 242
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4958e9062ee2090800000000000000
+      internalID: -8057253778714946308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 242
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7f806909c930f40800000000000000
+      internalID: 5693566498732832760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 242
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab7d57669a7af230800000000000000
+      internalID: 3673383232471923619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 242
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae54cb86799ec51a0800000000000000
+      internalID: -6819318899239270934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 242
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc93abb535cb95900800000000000000
+      internalID: 673776685475838412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 242
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88118c8332e28ae90800000000000000
+      internalID: -7014305690818178680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_8
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 242
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397951a2a28e407e0800000000000000
+      internalID: -1800058683249027181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_9
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 242
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b851bd5fc4815b3a0800000000000000
+      internalID: -6650382555921312373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_10
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 242
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1001f55ed60a28c20800000000000000
+      internalID: 3207302278501306369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 242
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b965ca214cc0dc3f0800000000000000
+      internalID: -879032316000971109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_12
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 242
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea13e12d7bbb3420800000000000000
+      internalID: 2610886555105172194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_13
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 242
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f57697b1bf515950800000000000000
+      internalID: 6436030559383090674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_14
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 242
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59fb56837f559cc0800000000000000
+      internalID: -3704950168662312610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_15
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 239
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb5621237d49b6c0800000000000000
+      internalID: -4127182426635609142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 242
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398afba4311be7dd0800000000000000
+      internalID: -2486355247845365613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_17
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 242
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9398a6630175b000800000000000000
+      internalID: 51071230205793178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_18
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 242
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1bc95098c13f630800000000000000
+      internalID: 3959539872219050431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_19
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 242
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7047efe718fe98690800000000000000
+      internalID: -7599279556750576633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 242
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108f4fa244b961d80800000000000000
+      internalID: -8280260147793299455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_21
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 242
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac0366fe1a7e3090800000000000000
+      internalID: -8052864810290574166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10e039ae05647f90800000000000000
+      internalID: -6956824410738073570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_23
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 222
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841cbe4d6c14b3030800000000000000
+      internalID: 3475443859678019912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 222
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb2cae5f47977a20800000000000000
+      internalID: 3060080838968093628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 222
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94813e9af4515e50800000000000000
+      internalID: 6796306748051391645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 202
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44069b9d5039db9a0800000000000000
+      internalID: -6215650257364492220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_27
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 222
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7479462810cbd10800000000000000
+      internalID: 2142589182266525618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 220
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183ecabb6678ea090800000000000000
+      internalID: -8021325010995190911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 222
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3f8facef3ba1a20800000000000000
+      internalID: 3033935205895828468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 220
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd023391c225d2f20800000000000000
+      internalID: 3399463643089412317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 222
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7003c0751bd371510800000000000000
+      internalID: 1519751231139753991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_32
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 222
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7124e399408c600800000000000000
+      internalID: 488645615790725062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_33
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 222
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4295d164f51778260800000000000000
+      internalID: 7099767991585036580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_34
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 222
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effa4074dae9e2750800000000000000
+      internalID: 6282132997286440958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 220
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad0729bd6f17dc30800000000000000
+      internalID: 4384007318386707882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_36
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 222
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d768b6b70509a2e0800000000000000
+      internalID: -2114153019385288746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_37
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 222
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4310f468bdc19600800000000000000
+      internalID: 473385627701744458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_38
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 222
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba386f0d71ad29e0800000000000000
+      internalID: -1644480730418890051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_39
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 222
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c6a7cf4946d6b60800000000000000
+      internalID: 7740953925573569570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_40
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 202
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62d530761dfa0890800000000000000
+      internalID: -7490896757363715474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_41
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 222
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9de17f013012620800000000000000
+      internalID: 2747480619073067439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_42
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 222
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a219a4b3d59607c90800000000000000
+      internalID: -7174118357253582550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_43
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 222
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224b218da54b10090800000000000000
+      internalID: -8069970755006057438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_44
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 220
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edc980b15e7fc270800000000000000
+      internalID: 8272969929822162408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_45
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 222
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4ab10807ed28ae0800000000000000
+      internalID: -1548430747095030570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_46
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 222
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9065e961e78a3b50800000000000000
+      internalID: 6573716008314691741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_47
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 222
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7550000da3a66abc0800000000000000
+      internalID: -3772210837045901993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_48
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 222
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746c0779d759f5e30800000000000000
+      internalID: 4494475319783245383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 222
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd8d3fc43f305a50800000000000000
+      internalID: 6507770957598133684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191f99ca3833b7770800000000000000
+      internalID: 8609531753278337425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_51
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 202
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36104ef4d45133010800000000000000
+      internalID: 1167300150216098147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_52
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 202
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c851c730547949230800000000000000
+      internalID: 3644704321116575116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_53
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 202
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67986ea1e29937e60800000000000000
+      internalID: 7958873389792659830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_54
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 200
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256139b101a5e24d0800000000000000
+      internalID: -3157487263511538094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_55
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 202
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1688e29cd28e9a4f0800000000000000
+      internalID: -816866574044592031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_56
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 202
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f324159959695be0800000000000000
+      internalID: -1488042368395107340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_57
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 202
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ec4bef8b9262940800000000000000
+      internalID: 5270946288407727775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_58
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 202
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a90a9bed378a06d0800000000000000
+      internalID: -3023455499810371167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_59
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 202
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5db143b126560f0800000000000000
+      internalID: -1124384662981192272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_60
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 202
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80f86a2165419c20800000000000000
+      internalID: 3211424292917538955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_61
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 202
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9743f447e4ed6d0800000000000000
+      internalID: -2963845243311195724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_62
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 202
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728898ea0212111c0800000000000000
+      internalID: -4534806925534459865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_63
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 202
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c711173862b880bc0800000000000000
+      internalID: -3816647686666251908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_64
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 202
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22ef9143b7e82490800000000000000
+      internalID: -7770706399941631443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_65
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 202
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875a39491cd2bcdb0800000000000000
+      internalID: -4770669070824266376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_66
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 200
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ae4f8842ba46440800000000000000
+      internalID: 4928252065655089699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_67
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 202
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60d559514842c8e0800000000000000
+      internalID: -1674696665919532945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_68
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 202
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb29e82996a58860800000000000000
+      internalID: 7531609128593599439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_69
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 202
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0629476708fc72d80800000000000000
+      internalID: -8275417639619882400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_70
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 202
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7896fe31ee81884b0800000000000000
+      internalID: -5438069139234133625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_71
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 202
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818e2e07975d99640800000000000000
+      internalID: 5087331971653363736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_72
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 202
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f81798b89f7e910800000000000000
+      internalID: 1866734948270051132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_73
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 202
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32001f85a3024dc40800000000000000
+      internalID: 5536085276917563427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef5bbd0dbd270de0800000000000000
+      internalID: -1367073671881203729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_75
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 183
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2ff6fd609700c20800000000000000
+      internalID: 3170667208094249684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_76
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 183
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df1b0321d1748770800000000000000
+      internalID: 8612133530489266136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_77
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 183
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f49a7fafd42f190800000000000000
+      internalID: -7930190253553791168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_78
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 183
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14a8718492f76d70800000000000000
+      internalID: 9036457896983438365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_79
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 183
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89f769ba32842990800000000000000
+      internalID: -7411655898014680692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_80
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 183
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafd141d969a7bc20800000000000000
+      internalID: 3222230330354294701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_81
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 183
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81f8336e2653afe0800000000000000
+      internalID: -1179003920207777395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_82
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 183
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bac5b518b8515820800000000000000
+      internalID: 2905200782292142769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_83
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 183
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2bcba207ad257d0800000000000000
+      internalID: -2931040232176569603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_84
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 183
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20115729c3de80a0800000000000000
+      internalID: -6877326720046657493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_85
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 183
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7734d1db9fbc15c00800000000000000
+      internalID: 887714875048805239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_86
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 183
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2509886ad161c70800000000000000
+      internalID: 8941366711283634913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_87
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 183
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283f3241af6576830800000000000000
+      internalID: 4064312820804875138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_88
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 183
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab60976a0b82c870800000000000000
+      internalID: 8701670306836671404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_89
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 183
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d61214403dde510800000000000000
+      internalID: 1580151059502951709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_90
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 183
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4864797a52f879910800000000000000
+      internalID: 1844099964319778436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_91
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 183
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40f5fbd1ee390e60800000000000000
+      internalID: 7928937758741360718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_92
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 183
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d66ff3aac6aa800800000000000000
+      internalID: 624430976817589580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_93
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 183
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743b051a9e6b41ca0800000000000000
+      internalID: -6047007285101677753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_94
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 183
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5539c887d562cd90800000000000000
+      internalID: -7078983687885736614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_95
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 183
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8b52af184393c70800000000000000
+      internalID: 8951243467227773146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_96
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 183
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01398c209c4e0a630800000000000000
+      internalID: 3936397626308072208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_97
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 183
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9939fb29b9ad5bc30800000000000000
+      internalID: 4374642974777119641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_98
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 183
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adfa157b851b4bc0800000000000000
+      internalID: -3797918172047540825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_99
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 183
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f2cd1ae6fa71f10800000000000000
+      internalID: 2240452229336936251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_100
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 183
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd23d0807476b530800000000000000
+      internalID: 3870408956318002631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_101
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 181
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd55aab7ac104290800000000000000
+      internalID: -7908289438946075196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f1270604b13d9e0800000000000000
+      internalID: -1597903479476445383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_103
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 162
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a19862a7f267d30800000000000000
+      internalID: 4428779485244496439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_104
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 163
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45d9f395e71d1510800000000000000
+      internalID: 1521398523918669133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_105
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 163
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6f1edf3a3319820800000000000000
+      internalID: 2923174412572292805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_106
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 163
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176bf811f50123f40800000000000000
+      internalID: 5706641678334408305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_107
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 155
+        width: 92
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6d465900ce39710800000000000000
+      internalID: 1698960971699377826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_108
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 107
+        width: 180
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16dd53c4f2fe7b80800000000000000
+      internalID: -8395005522308377058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_109
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e1a3f6d316be0e0800000000000000
+      internalID: -2239589473199710562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_110
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 30
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74be4ce9826130f00800000000000000
+      internalID: 1081732699217259335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_111
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19f3ce443b40ab50800000000000000
+      internalID: 6602359741756995871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_0: -6015755496852836453
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_1: 8772285796098946910
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_10: 3207302278501306369
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_100: 3870408956318002631
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_101: -7908289438946075196
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_102: -1597903479476445383
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_103: 4428779485244496439
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_104: 1521398523918669133
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_105: 2923174412572292805
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_106: 5706641678334408305
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_107: 1698960971699377826
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_108: -8395005522308377058
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_109: -2239589473199710562
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_11: -879032316000971109
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_110: 1081732699217259335
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_111: 6602359741756995871
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_12: 2610886555105172194
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_13: 6436030559383090674
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_14: -3704950168662312610
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_15: -4127182426635609142
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_16: -2486355247845365613
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_17: 51071230205793178
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_18: 3959539872219050431
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_19: -7599279556750576633
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_2: -8057253778714946308
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_20: -8280260147793299455
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_21: -8052864810290574166
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_22: -6956824410738073570
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_23: 3475443859678019912
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_24: 3060080838968093628
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_25: 6796306748051391645
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_26: -6215650257364492220
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_27: 2142589182266525618
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_28: -8021325010995190911
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_29: 3033935205895828468
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_3: 5693566498732832760
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_30: 3399463643089412317
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_31: 1519751231139753991
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_32: 488645615790725062
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_33: 7099767991585036580
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_34: 6282132997286440958
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_35: 4384007318386707882
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_36: -2114153019385288746
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_37: 473385627701744458
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_38: -1644480730418890051
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_39: 7740953925573569570
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_4: 3673383232471923619
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_40: -7490896757363715474
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_41: 2747480619073067439
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_42: -7174118357253582550
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_43: -8069970755006057438
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_44: 8272969929822162408
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_45: -1548430747095030570
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_46: 6573716008314691741
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_47: -3772210837045901993
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_48: 4494475319783245383
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_49: 6507770957598133684
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_5: -6819318899239270934
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_50: 8609531753278337425
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_51: 1167300150216098147
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_52: 3644704321116575116
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_53: 7958873389792659830
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_54: -3157487263511538094
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_55: -816866574044592031
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_56: -1488042368395107340
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_57: 5270946288407727775
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_58: -3023455499810371167
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_59: -1124384662981192272
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_6: 673776685475838412
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_60: 3211424292917538955
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_61: -2963845243311195724
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_62: -4534806925534459865
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_63: -3816647686666251908
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_64: -7770706399941631443
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_65: -4770669070824266376
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_66: 4928252065655089699
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_67: -1674696665919532945
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_68: 7531609128593599439
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_69: -8275417639619882400
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_7: -7014305690818178680
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_70: -5438069139234133625
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_71: 5087331971653363736
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_72: 1866734948270051132
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_73: 5536085276917563427
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_74: -1367073671881203729
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_75: 3170667208094249684
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_76: 8612133530489266136
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_77: -7930190253553791168
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_78: 9036457896983438365
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_79: -7411655898014680692
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_8: -1800058683249027181
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_80: 3222230330354294701
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_81: -1179003920207777395
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_82: 2905200782292142769
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_83: -2931040232176569603
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_84: -6877326720046657493
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_85: 887714875048805239
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_86: 8941366711283634913
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_87: 4064312820804875138
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_88: 8701670306836671404
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_89: 1580151059502951709
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_9: -6650382555921312373
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_90: 1844099964319778436
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_91: 7928937758741360718
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_92: 624430976817589580
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_93: -6047007285101677753
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_94: -7078983687885736614
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_95: 8951243467227773146
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_96: 3936397626308072208
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_97: 4374642974777119641
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_98: -3797918172047540825
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Miscellaneous - Hamtaro (Intro)_99: 2240452229336936251
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2665 @@
+fileFormatVersion: 2
+guid: b81c7ef9109a2844da5d4b53a6b47cf4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3097099816645097876
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_0
+  - first:
+      213: -9034700844215714
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_1
+  - first:
+      213: 3308607228291839656
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_2
+  - first:
+      213: 3322088680293952560
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_3
+  - first:
+      213: 8388293921677259747
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_4
+  - first:
+      213: -2549153665985891257
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_5
+  - first:
+      213: 1930012377766133191
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_6
+  - first:
+      213: 5581188542770711730
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_7
+  - first:
+      213: 4857156505076438836
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_8
+  - first:
+      213: -8272012422310481211
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_9
+  - first:
+      213: -1090127130752863554
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_10
+  - first:
+      213: 5331735356017533443
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_11
+  - first:
+      213: -4000215455022159917
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_12
+  - first:
+      213: 3875156171849698248
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_13
+  - first:
+      213: -1167836973910304716
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_14
+  - first:
+      213: -3647881947440291673
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_15
+  - first:
+      213: 570079255483674322
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_16
+  - first:
+      213: -1361655179070982093
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_17
+  - first:
+      213: -2816202210434723242
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_18
+  - first:
+      213: 8211067577440560330
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_19
+  - first:
+      213: 819685857334150565
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_20
+  - first:
+      213: -1307316148229054645
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_21
+  - first:
+      213: -3766930309711383535
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_22
+  - first:
+      213: 1064946132150094287
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_23
+  - first:
+      213: 7061887007419752433
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_24
+  - first:
+      213: 7719133275289443878
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_25
+  - first:
+      213: 866644814589073715
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_26
+  - first:
+      213: -4490729714949446486
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_27
+  - first:
+      213: 4024154390978317026
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_28
+  - first:
+      213: -7003482035013792579
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_29
+  - first:
+      213: 7237270687086601287
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_30
+  - first:
+      213: 3042533862615981914
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_31
+  - first:
+      213: 6377543712293025979
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_32
+  - first:
+      213: -8849997766121017184
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_33
+  - first:
+      213: -5095006700183131990
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_34
+  - first:
+      213: 7341633749752216626
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_35
+  - first:
+      213: 3002573786597975665
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_36
+  - first:
+      213: 3517231698975022090
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_37
+  - first:
+      213: -559363766249464244
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_38
+  - first:
+      213: 796106555381521869
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_39
+  - first:
+      213: 704906570138855999
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_40
+  - first:
+      213: -1399849867622693375
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_41
+  - first:
+      213: 9074127420225768299
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_42
+  - first:
+      213: -133618523155954285
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_43
+  - first:
+      213: -6377671324699293803
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_44
+  - first:
+      213: -5310761044584276005
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_45
+  - first:
+      213: 1638047520120740632
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_46
+  - first:
+      213: -7683967924267601032
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_47
+  - first:
+      213: -3686739076581572205
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_48
+  - first:
+      213: 2129118770070046660
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_49
+  - first:
+      213: 5553473755895771796
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_50
+  - first:
+      213: 7701045680187759369
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_51
+  - first:
+      213: 4206552330355966237
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_52
+  - first:
+      213: 7505840903899257098
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_53
+  - first:
+      213: 749239249399288913
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_54
+  - first:
+      213: -2025530334244065797
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_55
+  - first:
+      213: -7176908000676056572
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_56
+  - first:
+      213: -5232787915698120753
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_57
+  - first:
+      213: 62498460975944537
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_58
+  - first:
+      213: -4165619643913506248
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_59
+  - first:
+      213: -8231846270079037364
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_60
+  - first:
+      213: -2448671051932932847
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_61
+  - first:
+      213: -6062579429527454409
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_62
+  - first:
+      213: 3077681936822740669
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_63
+  - first:
+      213: -1424725376665106013
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_64
+  - first:
+      213: -5239666900540490237
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_65
+  - first:
+      213: 5719013293892955210
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_66
+  - first:
+      213: -3113401160605995932
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_67
+  - first:
+      213: 2528524731335166049
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_68
+  - first:
+      213: 6115343958356459576
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_69
+  - first:
+      213: -288021971861734290
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_70
+  - first:
+      213: -2795858003921875073
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_71
+  - first:
+      213: 7819754125563898109
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_72
+  - first:
+      213: 5726917978872056935
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_73
+  - first:
+      213: -3022894536483553088
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_74
+  - first:
+      213: 2459264693839690262
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_75
+  - first:
+      213: -187454384811679497
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_76
+  - first:
+      213: 5390064856089336724
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_77
+  - first:
+      213: -2970901699515581959
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_78
+  - first:
+      213: 3916356488434527950
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_79
+  - first:
+      213: 8839017863926162022
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_80
+  - first:
+      213: 2494893001778292672
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_81
+  - first:
+      213: 747597773586423366
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_82
+  - first:
+      213: 4222508609592936893
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_83
+  - first:
+      213: -8945287244194633691
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_84
+  - first:
+      213: 1938234321891513214
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_85
+  - first:
+      213: 2133273863855864038
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_86
+  - first:
+      213: -6903565540010824199
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_87
+  - first:
+      213: 4077585123420513918
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_88
+  - first:
+      213: -8110372553313987329
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_89
+  - first:
+      213: -5865074414491807280
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Dexter_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 410
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499fe05cfdb1bfa20800000000000000
+      internalID: 3097099816645097876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 400
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e525789ccf6efdff0800000000000000
+      internalID: -9034700844215714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 373
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6ff9f8eb88aed20800000000000000
+      internalID: 3308607228291839656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c6445bd0e6a1e20800000000000000
+      internalID: 3322088680293952560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 373
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e33421f0e4396470800000000000000
+      internalID: 8388293921677259747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 346
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744b60d2f369f9cd0800000000000000
+      internalID: -2549153665985891257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 373
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd7bdc2808c8ca10800000000000000
+      internalID: 1930012377766133191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 346
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc0454c86d547d40800000000000000
+      internalID: 5581188542770711730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 373
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4371f876b16186340800000000000000
+      internalID: 4857156505076438836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 346
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2b0966788e33d80800000000000000
+      internalID: -8272012422310481211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 373
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2b57b76271fd0f0800000000000000
+      internalID: -1090127130752863554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 346
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302e0dbbe012ef940800000000000000
+      internalID: 5331735356017533443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 317
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7606adc316c78c0800000000000000
+      internalID: -4000215455022159917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb8340c10257c530800000000000000
+      internalID: 3875156171849698248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_14
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 317
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438528ea5720bcfe0800000000000000
+      internalID: -1167836973910304716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 288
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0e24432be106dc0800000000000000
+      internalID: -3647881947440291673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_16
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 317
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de6cecff0459e700800000000000000
+      internalID: 570079255483674322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 288
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33837e834dd6a1de0800000000000000
+      internalID: -1361655179070982093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 317
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6525e5fa207dae8d0800000000000000
+      internalID: -2816202210434723242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 288
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac46214257293f170800000000000000
+      internalID: 8211067577440560330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 317
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a540d1c1fb106b00800000000000000
+      internalID: 819685857334150565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_21
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 288
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fdcafb3ea7bdde0800000000000000
+      internalID: -1307316148229054645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114300467dc29bbc0800000000000000
+      internalID: -3766930309711383535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_23
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 259
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc98bb76dd277ce00800000000000000
+      internalID: 1064946132150094287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_24
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 230
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff533951dcd00260800000000000000
+      internalID: 7061887007419752433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 259
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e568fe0dedf1b60800000000000000
+      internalID: 7719133275289443878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_26
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 259
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33914000ed0f60c00800000000000000
+      internalID: 866644814589073715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_27
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 259
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4a52efd19bda1c0800000000000000
+      internalID: -4490729714949446486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 259
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea4793091ba8d730800000000000000
+      internalID: 4024154390978317026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_29
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 259
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc4c28f132aece90800000000000000
+      internalID: -7003482035013792579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744e42f5853ff6460800000000000000
+      internalID: 7237270687086601287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_31
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 202
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f92529d60493a20800000000000000
+      internalID: 3042533862615981914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_32
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 202
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb870c67736918850800000000000000
+      internalID: 6377543712293025979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_33
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 230
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a03b57cbed7e2580800000000000000
+      internalID: -8849997766121017184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_34
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 202
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa869539666ea49b0800000000000000
+      internalID: -5095006700183131990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_35
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 230
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cfffc6ff8b2e560800000000000000
+      internalID: 7341633749752216626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_36
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 202
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176621a53f84ba920800000000000000
+      internalID: 3002573786597975665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_37
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 230
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c562a5897bfc030800000000000000
+      internalID: 3517231698975022090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_38
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 230
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ed9744e9dbc38f0800000000000000
+      internalID: -559363766249464244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_39
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 202
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd10e4b1b65c0b00800000000000000
+      internalID: 796106555381521869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_40
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 230
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a27f07ac458c900800000000000000
+      internalID: 704906570138855999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_41
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 202
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106c87d46fbb29ce0800000000000000
+      internalID: -1399849867622693375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_42
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 230
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b4039dfc6cded70800000000000000
+      internalID: 9074127420225768299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_43
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 202
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39580ef39aa452ef0800000000000000
+      internalID: -133618523155954285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5978a1578b5fd77a0800000000000000
+      internalID: -6377671324699293803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 173
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf5292b7f26c46b0800000000000000
+      internalID: -5310761044584276005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_46
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 173
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b91027a838bb610800000000000000
+      internalID: 1638047520120740632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_47
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 173
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873b88062ef0d5590800000000000000
+      internalID: -7683967924267601032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_48
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 173
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391cdc0d75216dcc0800000000000000
+      internalID: -3686739076581572205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_49
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 144
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c744a6ad362c8d10800000000000000
+      internalID: 2129118770070046660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_50
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 144
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4923f9915f6e11d40800000000000000
+      internalID: 5553473755895771796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_51
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 173
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bd5a68e3c9fda60800000000000000
+      internalID: 7701045680187759369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_52
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 144
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1185f3ae0da06a30800000000000000
+      internalID: 4206552330355966237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_53
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 173
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a091381d88a1a2860800000000000000
+      internalID: 7505840903899257098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_54
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 173
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1549930b025d56a00800000000000000
+      internalID: 749239249399288913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_55
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 173
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdaa9984eed3e3e0800000000000000
+      internalID: -2025530334244065797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4027b02c230866c90800000000000000
+      internalID: -7176908000676056572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_57
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 144
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc75bdb7d176167b0800000000000000
+      internalID: -5232787915698120753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_58
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 115
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953da75e40a0ed000800000000000000
+      internalID: 62498460975944537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_59
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 115
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8327527110fb036c0800000000000000
+      internalID: -4165619643913506248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_60
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 144
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40905a7e6b92cd80800000000000000
+      internalID: -8231846270079037364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_61
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 115
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11561c1e6a2940ed0800000000000000
+      internalID: -2448671051932932847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_62
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 115
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dfc6831246ddba0800000000000000
+      internalID: -6062579429527454409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_63
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 144
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6a4ff4a6f16ba20800000000000000
+      internalID: 3077681936822740669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_64
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 144
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9446581db5a3ce0800000000000000
+      internalID: -1424725376665106013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_65
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 115
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e79e307b6f847b0800000000000000
+      internalID: -5239666900540490237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ce9384a440e5f40800000000000000
+      internalID: 5719013293892955210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c6ac2d32afac4d0800000000000000
+      internalID: -3113401160605995932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_68
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 86
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168c501b8df171320800000000000000
+      internalID: 2528524731335166049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_69
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 86
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8300b2dfde01ed450800000000000000
+      internalID: 6115343958356459576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_70
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 115
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c7ca7ea8db00cf0800000000000000
+      internalID: -288021971861734290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_71
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 115
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fcdc165fd1339d0800000000000000
+      internalID: -2795858003921875073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8a12542f8558c60800000000000000
+      internalID: 7819754125563898109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_73
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 58
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c877c2f891a7f40800000000000000
+      internalID: 5726917978872056935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_74
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 86
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0cd6f5f658c06d0800000000000000
+      internalID: -3022894536483553088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_75
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 58
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a79f49530112220800000000000000
+      internalID: 2459264693839690262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_76
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 58
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0e5bdea37066df0800000000000000
+      internalID: -187454384811679497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_77
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 58
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b9587cd6b5dca40800000000000000
+      internalID: 5390064856089336724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_78
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 86
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9f4c115ac35c6d0800000000000000
+      internalID: -2970901699515581959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_79
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 86
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eceafeaf971b95630800000000000000
+      internalID: 3916356488434527950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_80
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 86
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662a6a68aef7aaa70800000000000000
+      internalID: 8839017863926162022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c76a9377f3af9220800000000000000
+      internalID: 2494893001778292672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_82
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 30
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64edd71d630006a00800000000000000
+      internalID: 747597773586423366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_83
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 29
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9c0d7653d599a30800000000000000
+      internalID: 4222508609592936893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_84
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 28
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52822f345a4fbd380800000000000000
+      internalID: -8945287244194633691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_85
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 28
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7350d7b8ddf5ea10800000000000000
+      internalID: 1938234321891513214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_86
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 28
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8f0cfc649ea9d10800000000000000
+      internalID: 2133273863855864038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fde600d7bb9130a0800000000000000
+      internalID: -6903565540010824199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_88
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76a5e6d01e769830800000000000000
+      internalID: 4077585123420513918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_89
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff454a3222b227f80800000000000000
+      internalID: -8110372553313987329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Dexter_90
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1dbfef4e11b9ea0800000000000000
+      internalID: -5865074414491807280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_0: 3097099816645097876
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_1: -9034700844215714
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_10: -1090127130752863554
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_11: 5331735356017533443
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_12: -4000215455022159917
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_13: 3875156171849698248
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_14: -1167836973910304716
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_15: -3647881947440291673
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_16: 570079255483674322
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_17: -1361655179070982093
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_18: -2816202210434723242
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_19: 8211067577440560330
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_2: 3308607228291839656
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_20: 819685857334150565
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_21: -1307316148229054645
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_22: -3766930309711383535
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_23: 1064946132150094287
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_24: 7061887007419752433
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_25: 7719133275289443878
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_26: 866644814589073715
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_27: -4490729714949446486
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_28: 4024154390978317026
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_29: -7003482035013792579
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_3: 3322088680293952560
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_30: 7237270687086601287
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_31: 3042533862615981914
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_32: 6377543712293025979
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_33: -8849997766121017184
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_34: -5095006700183131990
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_35: 7341633749752216626
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_36: 3002573786597975665
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_37: 3517231698975022090
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_38: -559363766249464244
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_39: 796106555381521869
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_4: 8388293921677259747
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_40: 704906570138855999
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_41: -1399849867622693375
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_42: 9074127420225768299
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_43: -133618523155954285
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_44: -6377671324699293803
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_45: -5310761044584276005
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_46: 1638047520120740632
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_47: -7683967924267601032
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_48: -3686739076581572205
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_49: 2129118770070046660
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_5: -2549153665985891257
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_50: 5553473755895771796
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_51: 7701045680187759369
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_52: 4206552330355966237
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_53: 7505840903899257098
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_54: 749239249399288913
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_55: -2025530334244065797
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_56: -7176908000676056572
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_57: -5232787915698120753
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_58: 62498460975944537
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_59: -4165619643913506248
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_6: 1930012377766133191
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_60: -8231846270079037364
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_61: -2448671051932932847
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_62: -6062579429527454409
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_63: 3077681936822740669
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_64: -1424725376665106013
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_65: -5239666900540490237
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_66: 5719013293892955210
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_67: -3113401160605995932
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_68: 2528524731335166049
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_69: 6115343958356459576
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_7: 5581188542770711730
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_70: -288021971861734290
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_71: -2795858003921875073
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_72: 7819754125563898109
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_73: 5726917978872056935
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_74: -3022894536483553088
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_75: 2459264693839690262
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_76: -187454384811679497
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_77: 5390064856089336724
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_78: -2970901699515581959
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_79: 3916356488434527950
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_8: 4857156505076438836
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_80: 8839017863926162022
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_81: 2494893001778292672
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_82: 747597773586423366
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_83: 4222508609592936893
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_84: -8945287244194633691
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_85: 1938234321891513214
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_86: 2133273863855864038
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_87: -6903565540010824199
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_88: 4077585123420513918
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_89: -8110372553313987329
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_9: -8272012422310481211
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Dexter_90: -5865074414491807280
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
