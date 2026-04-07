@@ -91,7 +91,7 @@ public class MainGame : MonoBehaviour
                 int before = game.newMales + game.newFemales;
                 game.Coupling(value);
                 int after = game.newMales + game.newFemales;
-                totalHamstersBorn += (after - before);
+                totalHamstersBorn += (after);
 
                 HandleFood();
                 break;
