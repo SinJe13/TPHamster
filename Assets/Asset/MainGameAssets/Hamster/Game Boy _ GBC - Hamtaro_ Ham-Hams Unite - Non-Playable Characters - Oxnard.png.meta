@@ -1,0 +1,1909 @@
+fileFormatVersion: 2
+guid: f72aecc4a35004844b1ce11a0a94815f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5395396193456678805
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_0
+  - first:
+      213: 9189970672302415383
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_1
+  - first:
+      213: 7791623821009862902
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_2
+  - first:
+      213: -3522091362288578579
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_3
+  - first:
+      213: -1722814405862444524
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_4
+  - first:
+      213: 4739787384216513074
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_5
+  - first:
+      213: -3635409065179614447
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_6
+  - first:
+      213: -4509587640710980002
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_7
+  - first:
+      213: 4815430435302093679
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_8
+  - first:
+      213: 680792238071219875
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_9
+  - first:
+      213: 707918247706115346
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_10
+  - first:
+      213: 8275682289957590685
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_11
+  - first:
+      213: 8916035979044361835
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_12
+  - first:
+      213: 8138916699959129957
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_13
+  - first:
+      213: -513518312350124427
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_14
+  - first:
+      213: -7048192098474615623
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_15
+  - first:
+      213: -627252981792861738
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_16
+  - first:
+      213: -1731081572062564258
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_17
+  - first:
+      213: 6947008979647598872
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_18
+  - first:
+      213: -3889527165847972713
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_19
+  - first:
+      213: 6438290780210521039
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_20
+  - first:
+      213: 2180741087655897261
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_21
+  - first:
+      213: 1490221150648484460
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_22
+  - first:
+      213: 6067932582805762381
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_23
+  - first:
+      213: 4005637836416199730
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_24
+  - first:
+      213: -5341070676985696778
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_25
+  - first:
+      213: -6127760172488574769
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_26
+  - first:
+      213: 1332738206925732498
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_27
+  - first:
+      213: -3345784932156389558
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_28
+  - first:
+      213: 4728092654093125299
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_29
+  - first:
+      213: -6038678163487902656
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_30
+  - first:
+      213: 6274356223373594303
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_31
+  - first:
+      213: -8308884334630290373
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_32
+  - first:
+      213: -4237661863273724811
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_33
+  - first:
+      213: -6247294550106636930
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_34
+  - first:
+      213: 8215501573967022975
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_35
+  - first:
+      213: 3961123167683656769
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_36
+  - first:
+      213: -2072151436040848032
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_37
+  - first:
+      213: -874149497011458472
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_38
+  - first:
+      213: 7510930944870457808
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_39
+  - first:
+      213: 8402340546607978682
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_40
+  - first:
+      213: -4376781153078797999
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_41
+  - first:
+      213: 1195478093933479268
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_42
+  - first:
+      213: 6906599861381961135
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_43
+  - first:
+      213: -6335482843316890004
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_44
+  - first:
+      213: 5992585921638723618
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_45
+  - first:
+      213: -6433516145391716174
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_46
+  - first:
+      213: -7385710360884082457
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_47
+  - first:
+      213: -1654496755844484308
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_48
+  - first:
+      213: -8220679510352694253
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_49
+  - first:
+      213: -616802863213354974
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_50
+  - first:
+      213: 3506255842574563986
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_51
+  - first:
+      213: 3200729864065820668
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_52
+  - first:
+      213: 838827816651992841
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_53
+  - first:
+      213: -7625014036399372205
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_54
+  - first:
+      213: 2594051854130410825
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_55
+  - first:
+      213: 246482267943836019
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_56
+  - first:
+      213: -4313079848548560795
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_57
+  - first:
+      213: -2493793748087894639
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_58
+  - first:
+      213: 6310696702991623976
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_59
+  - first:
+      213: -1490909819479272381
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_60
+  - first:
+      213: 7971026394664615339
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_61
+  - first:
+      213: 8812290773745588811
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_62
+  - first:
+      213: 6885810246110183878
+    second: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+      Oxnard_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 304
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597ea7d704c40ea40800000000000000
+      internalID: 5395396193456678805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 293
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ed7dac2a5598f70800000000000000
+      internalID: 9189970672302415383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0c3ca5598612c60800000000000000
+      internalID: 7791623821009862902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def415c11940f1fc0800000000000000
+      internalID: -3522091362288578579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 266
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412b4acfc655718e0800000000000000
+      internalID: -1722814405862444524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 239
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a6a13738b17c140800000000000000
+      internalID: 4739787384216513074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 266
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113fbb867be6c8dc0800000000000000
+      internalID: -3635409065179614447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 239
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e1eeffee9ba61c0800000000000000
+      internalID: -4509587640710980002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 266
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6339c8b778d3d240800000000000000
+      internalID: 4815430435302093679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 239
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6041cfee8a27900800000000000000
+      internalID: 680792238071219875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 266
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d3a8445e703d900800000000000000
+      internalID: 707918247706115346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 239
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96d9ee323129d270800000000000000
+      internalID: 8275682289957590685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b669a87db7f1cbb70800000000000000
+      internalID: 8916035979044361835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567fe85ed9d33f070800000000000000
+      internalID: 8138916699959129957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_14
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 210
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57676bec0dd9fd8f0800000000000000
+      internalID: -513518312350124427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 181
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc94bd11aacf2e90800000000000000
+      internalID: -7048192098474615623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_16
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 210
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d19ee38cbc8b47f0800000000000000
+      internalID: -627252981792861738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 181
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e507cfb5b76f9f7e0800000000000000
+      internalID: -1731081572062564258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 210
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81118533cdbb86060800000000000000
+      internalID: 6947008979647598872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 181
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794566776af950ac0800000000000000
+      internalID: -3889527165847972713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 210
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3ee136a57695950800000000000000
+      internalID: 6438290780210521039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_21
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 181
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da824d4177c834e10800000000000000
+      internalID: 2180741087655897261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 181
+        width: 88
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c624d21bd345ea410800000000000000
+      internalID: 1490221150648484460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41f727e880a53450800000000000000
+      internalID: 6067932582805762381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ca372b362e69730800000000000000
+      internalID: 4005637836416199730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_25
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 148
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd230a7484b0e5b0800000000000000
+      internalID: -5341070676985696778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_26
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 120
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc83802e692d5faa0800000000000000
+      internalID: -6127760172488574769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_27
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 148
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a366a8656de7210800000000000000
+      internalID: 1332738206925732498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_28
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 148
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47c6f7b4526191d0800000000000000
+      internalID: -3345784932156389558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 120
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6ca58e73f8d9140800000000000000
+      internalID: 4728092654093125299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_30
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 148
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0443560643e423ca0800000000000000
+      internalID: -6038678163487902656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_31
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 120
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbec1700ebdf21750800000000000000
+      internalID: 6274356223373594303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cbd8258b9e0bc80800000000000000
+      internalID: -8308884334630290373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_33
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 88
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5748959ccfcc035c0800000000000000
+      internalID: -4237661863273724811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_34
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 120
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7df8adc4b62d49a0800000000000000
+      internalID: -6247294550106636930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_35
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 120
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b87f76723530270800000000000000
+      internalID: 8215501573967022975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 120
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cba59b88cb8f630800000000000000
+      internalID: 3961123167683656769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_37
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 88
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d38f56f3d3e33e0800000000000000
+      internalID: -2072151436040848032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_38
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 88
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85eab06f9a56ed3f0800000000000000
+      internalID: -874149497011458472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_39
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 88
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d12e7556ef2c3860800000000000000
+      internalID: 7510930944870457808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_40
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 55
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab81e6aa53c1b9470800000000000000
+      internalID: 8402340546607978682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_41
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 88
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1591d1ffabc8243c0800000000000000
+      internalID: -4376781153078797999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_42
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 88
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4658aa51ef0379010800000000000000
+      internalID: 1195478093933479268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_43
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 88
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa51f6f2bfb29df50800000000000000
+      internalID: 6906599861381961135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66d38bbbe7d318a0800000000000000
+      internalID: -6335482843316890004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22078494521f92350800000000000000
+      internalID: 5992585921638723618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_46
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 55
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8bf29e62f87b6a0800000000000000
+      internalID: -6433516145391716174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_47
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 26
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e80595de8fa08990800000000000000
+      internalID: -7385710360884082457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_48
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 55
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c237ad967fb0a09e0800000000000000
+      internalID: -1654496755844484308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_49
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 26
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31478155a874aed80800000000000000
+      internalID: -8220679510352694253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_50
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 26
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22069b9501da077f0800000000000000
+      internalID: -616802863213354974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_51
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 55
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a7b44ac19b8a030800000000000000
+      internalID: 3506255842574563986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_52
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 26
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7a0a96ad64b6c20800000000000000
+      internalID: 3200729864065820668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_53
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 32
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f2247747d14ab00800000000000000
+      internalID: 838827816651992841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_54
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 55
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3584c0902228e2690800000000000000
+      internalID: -7625014036399372205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_55
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 26
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945f26eda6ceff320800000000000000
+      internalID: 2594051854130410825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_56
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 55
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3799938115eab6300800000000000000
+      internalID: 246482267943836019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_57
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 55
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5601e5bbabcd424c0800000000000000
+      internalID: -4313079848548560795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d812e7cc3446dd0800000000000000
+      internalID: -2493793748087894639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_59
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8276b034739149750800000000000000
+      internalID: 6310696702991623976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_60
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344dbc91b693f4be0800000000000000
+      internalID: -1490909819479272381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_61
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad3f3d0646ce9e60800000000000000
+      internalID: 7971026394664615339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_62
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ade8ae4cb8b4a70800000000000000
+      internalID: 8812290773745588811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters -
+        Oxnard_63
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1842eafef4f8f50800000000000000
+      internalID: 6885810246110183878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0b432df42732fe747bffcb05948259a5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_0: 5395396193456678805
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_1: 9189970672302415383
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_10: 707918247706115346
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_11: 8275682289957590685
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_12: 8916035979044361835
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_13: 8138916699959129957
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_14: -513518312350124427
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_15: -7048192098474615623
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_16: -627252981792861738
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_17: -1731081572062564258
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_18: 6947008979647598872
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_19: -3889527165847972713
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_2: 7791623821009862902
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_20: 6438290780210521039
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_21: 2180741087655897261
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_22: 1490221150648484460
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_23: 6067932582805762381
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_24: 4005637836416199730
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_25: -5341070676985696778
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_26: -6127760172488574769
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_27: 1332738206925732498
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_28: -3345784932156389558
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_29: 4728092654093125299
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_3: -3522091362288578579
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_30: -6038678163487902656
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_31: 6274356223373594303
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_32: -8308884334630290373
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_33: -4237661863273724811
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_34: -6247294550106636930
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_35: 8215501573967022975
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_36: 3961123167683656769
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_37: -2072151436040848032
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_38: -874149497011458472
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_39: 7510930944870457808
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_4: -1722814405862444524
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_40: 8402340546607978682
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_41: -4376781153078797999
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_42: 1195478093933479268
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_43: 6906599861381961135
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_44: -6335482843316890004
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_45: 5992585921638723618
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_46: -6433516145391716174
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_47: -7385710360884082457
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_48: -1654496755844484308
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_49: -8220679510352694253
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_5: 4739787384216513074
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_50: -616802863213354974
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_51: 3506255842574563986
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_52: 3200729864065820668
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_53: 838827816651992841
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_54: -7625014036399372205
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_55: 2594051854130410825
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_56: 246482267943836019
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_57: -4313079848548560795
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_58: -2493793748087894639
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_59: 6310696702991623976
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_6: -3635409065179614447
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_60: -1490909819479272381
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_61: 7971026394664615339
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_62: 8812290773745588811
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_63: 6885810246110183878
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_7: -4509587640710980002
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_8: 4815430435302093679
+      Game Boy _ GBC - Hamtaro_ Ham-Hams Unite - Non-Playable Characters - Oxnard_9: 680792238071219875
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,16 +1,23 @@
+﻿using UnityEngine;
 using TMPro;
-using UnityEngine;
 using UnityEngine.SceneManagement;
-using static UnityEngine.Rendering.DebugUI.Table;
 
-public class MainGame : MonoBehaviour
+public class GameManager : MonoBehaviour
 {
+    [Header("Panels")]
     public GameObject mainPanel;
     public GameObject questionPanel;
+    public GameObject defeatPanel;
 
+    [Header("UI Main")]
     public TMP_Text summaryText;
+
+    [Header("UI Question")]
     public TMP_Text questionText;
     public TMP_InputField inputField;
+
+    [Header("UI Defeat")]
+    public TMP_Text defeatText;
 
     public UIAnimator animator;
 
@@ -18,6 +25,10 @@ public class MainGame : MonoBehaviour
     FoodManager food = new FoodManager();
 
     int step = 0;
+    bool isGameOver = false;
+    int totalMoneyEarned = 0;
+    int totalHamstersBorn = 0;
+    int totalDeaths = 0;
 
     void Start()
     {
@@ -27,7 +38,9 @@ public class MainGame : MonoBehaviour
 
     public void StartQuestions()
     {
-        //mainPanel.SetActive(false);
+        if (isGameOver) return;
+
+        mainPanel.SetActive(false);
         StartCoroutine(animator.Show(questionPanel));
 
         step = 0;
@@ -36,6 +49,8 @@ public class MainGame : MonoBehaviour
 
     public void SubmitAnswer()
     {
+        if (isGameOver) return;
+
         int value;
         if (!int.TryParse(inputField.text, out value)) return;
 
@@ -55,12 +70,39 @@ public class MainGame : MonoBehaviour
         }
     }
 
+    void ShowMain()
+    {
+        StartCoroutine(animator.Hide(questionPanel));
+        mainPanel.SetActive(true);
+        UpdateSummary();
+    }
+
+    void UpdateQuestion()
+    {
+        switch (step)
+        {
+            case 0: questionText.text = "How many males do you want to sell ?"; break;
+            case 1: questionText.text = "How many females do you want to sell ?"; break;
+            case 2: questionText.text = "How much food do you want to buy ?"; break;
+            case 3: questionText.text = "How many hamsters do you want to breed ?"; break;
+        }
+    }
+
     void ProcessStep(int value)
     {
         switch (step)
         {
-            case 0: game.SellMales(value); break;
-            case 1: game.SellFemales(value); break;
+            case 0:
+                int beforeMoneyM = game.money;
+                game.SellMales(value);
+                totalMoneyEarned += (game.money - beforeMoneyM);
+                break;
+
+            case 1:
+                int beforeMoneyF = game.money;
+                game.SellFemales(value);
+                totalMoneyEarned += (game.money - beforeMoneyF);
+                break;
 
             case 2:
                 int maxFood = game.money / 2;
@@ -70,7 +112,12 @@ public class MainGame : MonoBehaviour
                 break;
 
             case 3:
+                int beforeBabies = game.newMales + game.newFemales;
                 game.Coupling(value);
+                int afterBabies = game.newMales + game.newFemales;
+
+                totalHamstersBorn += (afterBabies - beforeBabies);
+
                 HandleFood();
                 break;
         }
@@ -86,6 +133,7 @@ public class MainGame : MonoBehaviour
         if (required > available)
         {
             int deaths = required - available;
+            totalDeaths += deaths;
 
             for (int i = 0; i < deaths; i++)
             {
@@ -106,13 +154,36 @@ public class MainGame : MonoBehaviour
     void EndTurn()
     {
         game.NextMonth();
+        CheckDefeat();
     }
 
-    void ShowMain()
+    void CheckDefeat()
     {
-        StartCoroutine(animator.Hide(questionPanel));
-        //mainPanel.SetActive(true);
-        UpdateSummary();
+        int total =
+            game.hamsterMaleAdult +
+            game.hamsterFemaleAdult +
+            game.hamsterMaleBaby +
+            game.hamsterFemaleBaby;
+
+        if (total <= 0)
+        {
+            ShowDefeat();
+        }
+    }
+
+    void ShowDefeat()
+    {
+        isGameOver = true;
+
+        mainPanel.SetActive(false);
+        StartCoroutine(animator.Show(defeatPanel));
+
+        defeatText.text =
+            "GAME OVER\n\n" +
+            "Reached months : " + game.month + "\n" +
+            "Total money earned : " + totalMoneyEarned + "$\n" +
+            "Births : " + totalHamstersBorn + "\n" +
+            "Deaths : " + totalDeaths;
     }
 
     void UpdateSummary()
@@ -120,20 +191,11 @@ public class MainGame : MonoBehaviour
         summaryText.text =
             "MONTH : " + game.month + "\n\n" +
             "MALES : " + game.hamsterMaleAdult + "\n" +
-            "FEMALES : " + game.hamsterFemaleAdult + "\n\n" +
+            "FEMALES : " + game.hamsterFemaleAdult + "\n" +
+            "BABIES : " + "\n" +
+            "MALES : " + game.hamsterMaleBaby + "FEMALES : " + game.hamsterFemaleBaby + "\n\n" +
             "FOOD : " + food.GetFoodCount() + "\n" +
             "MONEY : " + game.money + "$";
-    }
-
-    void UpdateQuestion()
-    {
-        switch (step)
-        {
-            case 0: questionText.text = "How many males do you want to sell ?"; break;
-            case 1: questionText.text = "How many females do you want to sell ?"; break;
-            case 2: questionText.text = "How much food do you want to buy ?"; break;
-            case 3: questionText.text = "How many hamsters do you want to breed ?"; break;
-        }
     }
 
     public void OnClickRestart()

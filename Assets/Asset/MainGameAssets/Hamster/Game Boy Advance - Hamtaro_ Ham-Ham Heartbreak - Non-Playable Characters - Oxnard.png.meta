@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 2dc7df44daf14f34a8339b0a393ea0b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4666874121239936247
+    second: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+      - Oxnard_0
+  - first:
+      213: -3659351911984743557
+    second: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+      - Oxnard_1
+  - first:
+      213: -8322969287349964687
+    second: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+      - Oxnard_2
+  - first:
+      213: 5842057170837300205
+    second: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+      - Oxnard_3
+  - first:
+      213: 5561155574795319443
+    second: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+      - Oxnard_4
+  - first:
+      213: -8451966710436595940
+    second: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+      - Oxnard_5
+  - first:
+      213: -2522080811578033252
+    second: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+      - Oxnard_6
+  - first:
+      213: -5665567200144123664
+    second: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+      - Oxnard_7
+  - first:
+      213: 4917322056794754507
+    second: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+      - Oxnard_8
+  - first:
+      213: 2609550098563989260
+    second: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+      - Oxnard_9
+  - first:
+      213: -75061630465178759
+    second: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+      - Oxnard_10
+  - first:
+      213: -3629876976230907569
+    second: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+      - Oxnard_11
+  - first:
+      213: 2617122458840671626
+    second: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+      - Oxnard_12
+  - first:
+      213: 7633400146553230088
+    second: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+      - Oxnard_13
+  - first:
+      213: -3122059296807698985
+    second: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+      - Oxnard_14
+  - first:
+      213: -9108682449436993575
+    second: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+      - Oxnard_15
+  - first:
+      213: -7634589706830634625
+    second: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+      - Oxnard_16
+  - first:
+      213: -367273057718210981
+    second: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+      - Oxnard_17
+  - first:
+      213: 7248708246269907722
+    second: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+      - Oxnard_18
+  - first:
+      213: -2444256565468477350
+    second: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+      - Oxnard_19
+  - first:
+      213: -7961591222254266981
+    second: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+      - Oxnard_20
+  - first:
+      213: 9094695470412328112
+    second: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+      - Oxnard_21
+  - first:
+      213: -5509864473610309691
+    second: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+      - Oxnard_22
+  - first:
+      213: 8518312710821617813
+    second: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+      - Oxnard_23
+  - first:
+      213: -4858789474268121055
+    second: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+      - Oxnard_24
+  - first:
+      213: 3303715353535669131
+    second: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+      - Oxnard_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+        - Oxnard_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 304
+        width: 168
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc38ff794114c040800000000000000
+      internalID: 4666874121239936247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+        - Oxnard_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 260
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bb00af2de573dc0800000000000000
+      internalID: -3659351911984743557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+        - Oxnard_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 260
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170f407b78fde7c80800000000000000
+      internalID: -8322969287349964687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+        - Oxnard_3
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 260
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3e7495b08231150800000000000000
+      internalID: 5842057170837300205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+        - Oxnard_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 260
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398bb50f7813d2d40800000000000000
+      internalID: 5561155574795319443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+        - Oxnard_5
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 260
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17fffaae0594ba80800000000000000
+      internalID: -8451966710436595940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+        - Oxnard_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bff0b4dd4cffcd0800000000000000
+      internalID: -2522080811578033252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+        - Oxnard_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 194
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f81e4026acdf51b0800000000000000
+      internalID: -5665567200144123664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+        - Oxnard_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 194
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdc1798b56dd3440800000000000000
+      internalID: 4917322056794754507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+        - Oxnard_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 194
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ffd781dfbf63420800000000000000
+      internalID: 2609550098563989260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+        - Oxnard_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 194
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9738cd348d355fef0800000000000000
+      internalID: -75061630465178759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+        - Oxnard_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41436d3f1610adc0800000000000000
+      internalID: -3629876976230907569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+        - Oxnard_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 128
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8525ec9203e15420800000000000000
+      internalID: 2617122458840671626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+        - Oxnard_13
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 128
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80358b36df84fe960800000000000000
+      internalID: 7633400146553230088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+        - Oxnard_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 128
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd32166c973ca4d0800000000000000
+      internalID: -3122059296807698985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+        - Oxnard_15
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 128
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d719757295779180800000000000000
+      internalID: -9108682449436993575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+        - Oxnard_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 62
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71a1868c1d7c0690800000000000000
+      internalID: -7634589706830634625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+        - Oxnard_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 62
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e6223991f27eaf0800000000000000
+      internalID: -367273057718210981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+        - Oxnard_18
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 62
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03dc53aeb5989460800000000000000
+      internalID: 7248708246269907722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+        - Oxnard_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 62
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58c55b9a91441ed0800000000000000
+      internalID: -2444256565468477350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+        - Oxnard_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 62
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b959aa637feb28190800000000000000
+      internalID: -7961591222254266981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+        - Oxnard_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bce7463859d63e70800000000000000
+      internalID: 9094695470412328112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+        - Oxnard_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfa9e924770983b0800000000000000
+      internalID: -5509864473610309691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+        - Oxnard_23
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590a73e4740273670800000000000000
+      internalID: 8518312710821617813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+        - Oxnard_24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12877d357bc129cb0800000000000000
+      internalID: -4858789474268121055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters
+        - Oxnard_25
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b836f763c9729dd20800000000000000
+      internalID: 3303715353535669131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters - Oxnard_0: 4666874121239936247
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters - Oxnard_1: -3659351911984743557
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters - Oxnard_10: -75061630465178759
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters - Oxnard_11: -3629876976230907569
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters - Oxnard_12: 2617122458840671626
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters - Oxnard_13: 7633400146553230088
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters - Oxnard_14: -3122059296807698985
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters - Oxnard_15: -9108682449436993575
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters - Oxnard_16: -7634589706830634625
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters - Oxnard_17: -367273057718210981
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters - Oxnard_18: 7248708246269907722
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters - Oxnard_19: -2444256565468477350
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters - Oxnard_2: -8322969287349964687
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters - Oxnard_20: -7961591222254266981
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters - Oxnard_21: 9094695470412328112
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters - Oxnard_22: -5509864473610309691
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters - Oxnard_23: 8518312710821617813
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters - Oxnard_24: -4858789474268121055
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters - Oxnard_25: 3303715353535669131
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters - Oxnard_3: 5842057170837300205
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters - Oxnard_4: 5561155574795319443
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters - Oxnard_5: -8451966710436595940
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters - Oxnard_6: -2522080811578033252
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters - Oxnard_7: -5665567200144123664
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters - Oxnard_8: 4917322056794754507
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Non-Playable Characters - Oxnard_9: 2609550098563989260
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
