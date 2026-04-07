@@ -1,5 +1,4 @@
 using TMPro;
-using UnityEditor.EditorTools;
 using UnityEngine;
 using static UnityEngine.Rendering.DebugUI.Table;
 

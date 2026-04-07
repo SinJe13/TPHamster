@@ -117,6 +117,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -309,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Miscellaneous - Ending_0: 72894602120082588
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Miscellaneous - Ending_1: -6186226154533310720
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Miscellaneous - Ending_2: -8279426829555525538
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Miscellaneous - Ending_3: 4060503241101413480
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Miscellaneous - Ending_4: 5448786324305493023
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Miscellaneous - Ending_5: -1431703964547816563
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Miscellaneous - Ending_6: -2168542015635621964
+      Game Boy Advance - Hamtaro_ Ham-Ham Heartbreak - Miscellaneous - Ending_7: -958937775565453529
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
