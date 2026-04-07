@@ -1,5 +1,6 @@
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using static UnityEngine.Rendering.DebugUI.Table;
 
 public class MainGame : MonoBehaviour
@@ -133,5 +134,10 @@ public class MainGame : MonoBehaviour
             case 2: questionText.text = "How much food do you want to buy ?"; break;
             case 3: questionText.text = "How many hamsters do you want to breed ?"; break;
         }
+    }
+
+    public void OnClickRestart()
+    {
+        SceneManager.LoadScene(0);
     }
 }
