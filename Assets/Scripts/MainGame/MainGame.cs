@@ -2,21 +2,15 @@
 using TMPro;
 using UnityEngine.SceneManagement;
 
-public class GameManager : MonoBehaviour
+public class MainGame : MonoBehaviour
 {
-    [Header("Panels")]
     public GameObject mainPanel;
     public GameObject questionPanel;
     public GameObject defeatPanel;
 
-    [Header("UI Main")]
     public TMP_Text summaryText;
-
-    [Header("UI Question")]
     public TMP_Text questionText;
     public TMP_InputField inputField;
-
-    [Header("UI Defeat")]
     public TMP_Text defeatText;
 
     public UIAnimator animator;
@@ -26,6 +20,7 @@ public class GameManager : MonoBehaviour
 
     int step = 0;
     bool isGameOver = false;
+
     int totalMoneyEarned = 0;
     int totalHamstersBorn = 0;
     int totalDeaths = 0;
@@ -51,8 +46,7 @@ public class GameManager : MonoBehaviour
     {
         if (isGameOver) return;
 
-        int value;
-        if (!int.TryParse(inputField.text, out value)) return;
+        if (!int.TryParse(inputField.text, out int value)) return;
 
         ProcessStep(value);
 
@@ -68,6 +62,101 @@ public class GameManager : MonoBehaviour
         {
             UpdateQuestion();
         }
+    }
+
+    void ProcessStep(int value)
+    {
+        switch (step)
+        {
+            case 0:
+                int beforeM = game.money;
+                game.SellMales(value);
+                totalMoneyEarned += game.money - beforeM;
+                break;
+
+            case 1:
+                int beforeF = game.money;
+                game.SellFemales(value);
+                totalMoneyEarned += game.money - beforeF;
+                break;
+
+            case 2:
+                int maxFood = game.money / 2;
+                value = Mathf.Min(value, maxFood);
+                food.AddFood(value, game.month);
+                game.money -= value * 2;
+                break;
+
+            case 3:
+                int before = game.newMales + game.newFemales;
+                game.Coupling(value);
+                int after = game.newMales + game.newFemales;
+                totalHamstersBorn += (after - before);
+
+                HandleFood();
+                break;
+        }
+    }
+
+    void HandleFood()
+    {
+        food.RemoveExpired(game.month);
+
+        int required = game.maleAdults.Count + game.femaleAdults.Count;
+        int available = food.GetFoodCount();
+
+        if (required > available)
+        {
+            int deaths = required - available;
+            totalDeaths += deaths;
+
+            for (int i = 0; i < deaths; i++)
+            {
+                if (game.maleAdults.Count > 0)
+                    game.maleAdults.RemoveAt(0);
+                else if (game.femaleAdults.Count > 0)
+                    game.femaleAdults.RemoveAt(0);
+            }
+
+            food.ClearAll();
+        }
+        else
+        {
+            food.ConsumeFood(required);
+        }
+    }
+
+    void EndTurn()
+    {
+        totalDeaths += game.HandleAgingAndDeaths();
+        CheckDefeat();
+    }
+
+    void CheckDefeat()
+    {
+        int total =
+            game.maleAdults.Count +
+            game.femaleAdults.Count +
+            game.maleBabies.Count +
+            game.femaleBabies.Count;
+
+        if (total <= 0)
+            ShowDefeat();
+    }
+
+    void ShowDefeat()
+    {
+        isGameOver = true;
+
+        mainPanel.SetActive(false);
+        StartCoroutine(animator.Show(defeatPanel));
+
+        defeatText.text =
+            "GAME OVER\n\n" +
+            "Months : " + game.month + "\n" +
+            "Money : " + totalMoneyEarned + "$\n" +
+            "Births : " + totalHamstersBorn + "\n" +
+            "Deaths : " + totalDeaths;
     }
 
     void ShowMain()
@@ -88,112 +177,13 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    void ProcessStep(int value)
-    {
-        switch (step)
-        {
-            case 0:
-                int beforeMoneyM = game.money;
-                game.SellMales(value);
-                totalMoneyEarned += (game.money - beforeMoneyM);
-                break;
-
-            case 1:
-                int beforeMoneyF = game.money;
-                game.SellFemales(value);
-                totalMoneyEarned += (game.money - beforeMoneyF);
-                break;
-
-            case 2:
-                int maxFood = game.money / 2;
-                value = Mathf.Min(value, maxFood);
-                food.AddFood(value, game.month);
-                game.money -= value * 2;
-                break;
-
-            case 3:
-                int beforeBabies = game.newMales + game.newFemales;
-                game.Coupling(value);
-                int afterBabies = game.newMales + game.newFemales;
-
-                totalHamstersBorn += (afterBabies - beforeBabies);
-
-                HandleFood();
-                break;
-        }
-    }
-
-    void HandleFood()
-    {
-        food.RemoveExpired(game.month);
-
-        int required = game.hamsterMaleAdult + game.hamsterFemaleAdult;
-        int available = food.GetFoodCount();
-
-        if (required > available)
-        {
-            int deaths = required - available;
-            totalDeaths += deaths;
-
-            for (int i = 0; i < deaths; i++)
-            {
-                if (game.hamsterMaleAdult > 0)
-                    game.hamsterMaleAdult--;
-                else if (game.hamsterFemaleAdult > 0)
-                    game.hamsterFemaleAdult--;
-            }
-
-            food.ClearAll();
-        }
-        else
-        {
-            food.ConsumeFood(required);
-        }
-    }
-
-    void EndTurn()
-    {
-        game.NextMonth();
-        CheckDefeat();
-    }
-
-    void CheckDefeat()
-    {
-        int total =
-            game.hamsterMaleAdult +
-            game.hamsterFemaleAdult +
-            game.hamsterMaleBaby +
-            game.hamsterFemaleBaby;
-
-        if (total <= 0)
-        {
-            ShowDefeat();
-        }
-    }
-
-    void ShowDefeat()
-    {
-        isGameOver = true;
-
-        mainPanel.SetActive(false);
-        StartCoroutine(animator.Show(defeatPanel));
-
-        defeatText.text =
-            "GAME OVER\n\n" +
-            "Reached months : " + game.month + "\n" +
-            "Total money earned : " + totalMoneyEarned + "$\n" +
-            "Births : " + totalHamstersBorn + "\n" +
-            "Deaths : " + totalDeaths;
-    }
-
     void UpdateSummary()
     {
         summaryText.text =
             "MONTH : " + game.month + "\n\n" +
-            "MALES : " + game.hamsterMaleAdult + "\n" +
-            "FEMALES : " + game.hamsterFemaleAdult + "\n" +
-            "BABIES : " + "\n" +
-            "MALES : " + game.hamsterMaleBaby + "FEMALES : " + game.hamsterFemaleBaby + "\n\n" +
+            "MALES : " + game.maleAdults.Count + "\n" +
+            "FEMALES : " + game.femaleAdults.Count + "\n\n" +
+            "BABIES : " + (game.maleBabies.Count + game.femaleBabies.Count) + "\n\n" +
             "FOOD : " + food.GetFoodCount() + "\n" +
             "MONEY : " + game.money + "$";
     }

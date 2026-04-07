@@ -446,8 +446,6 @@ GameObject:
   m_Component:
   - component: {fileID: 281912635}
   - component: {fileID: 281912639}
-  - component: {fileID: 281912638}
-  - component: {fileID: 281912637}
   - component: {fileID: 281912636}
   m_Layer: 0
   m_Name: _scripts
@@ -481,40 +479,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f5f5b7bbc20bd8240838045b23476151, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &281912637
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 281912633}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1584113a4aa6bed47b62a55c7858f63d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  hamsterMaleAdult: 2
-  hamsterFemaleAdult: 2
-  hamsterMaleBaby: 0
-  hamsterFemaleBaby: 0
-  money: 10
-  month: 0
-  newMales: 0
-  newFemales: 0
-  maleDead: 0
-  femaleDead: 0
---- !u!114 &281912638
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 281912633}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f43a14f4b04014e4b9510f89cea9e448, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &281912639

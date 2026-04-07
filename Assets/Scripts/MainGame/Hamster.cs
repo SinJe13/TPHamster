@@ -1,16 +1,11 @@
 using UnityEngine;
 
-public class Hamster : MonoBehaviour
+public class Hamster
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    public int age;
 
-    // Update is called once per frame
-    void Update()
+    public Hamster(int age)
     {
-        
+        this.age = age;
     }
 }

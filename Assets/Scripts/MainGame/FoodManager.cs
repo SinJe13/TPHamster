@@ -1,9 +1,7 @@
 using System.Collections.Generic;
-using UnityEngine;
 
-public class FoodManager : MonoBehaviour
+public class FoodManager
 {
-    // Petite classe interne
     class Food
     {
         public int quantity;
@@ -40,23 +38,28 @@ public class FoodManager : MonoBehaviour
         }
     }
 
-    public void ConsumeFood(int amount)
+    public int ConsumeFood(int amount)
     {
+        int consumed = 0;
+
         for (int i = 0; i < foods.Count; i++)
         {
             if (foods[i].quantity >= amount)
             {
                 foods[i].quantity -= amount;
+                consumed += amount;
                 break;
             }
             else
             {
                 amount -= foods[i].quantity;
+                consumed += foods[i].quantity;
                 foods[i].quantity = 0;
             }
         }
 
         foods.RemoveAll(f => f.quantity == 0);
+        return consumed;
     }
 
     public void ClearAll()
