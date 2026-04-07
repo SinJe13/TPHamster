@@ -35,7 +35,7 @@ public class MainGame : MonoBehaviour
     {
         if (isGameOver) return;
 
-        mainPanel.SetActive(false);
+        //mainPanel.SetActive(false);
         StartCoroutine(animator.Show(questionPanel));
 
         step = 0;
@@ -102,28 +102,51 @@ public class MainGame : MonoBehaviour
     {
         food.RemoveExpired(game.month);
 
-        int required = game.maleAdults.Count + game.femaleAdults.Count;
-        int available = food.GetFoodCount();
+        int availableFood = food.GetFoodCount();
 
-        if (required > available)
+        foreach (var h in game.maleAdults) h.hasEaten = false;
+        foreach (var h in game.femaleAdults) h.hasEaten = false;
+
+        foreach (var h in game.maleAdults)
         {
-            int deaths = required - available;
-            totalDeaths += deaths;
-
-            for (int i = 0; i < deaths; i++)
+            if (availableFood > 0)
             {
-                if (game.maleAdults.Count > 0)
-                    game.maleAdults.RemoveAt(0);
-                else if (game.femaleAdults.Count > 0)
-                    game.femaleAdults.RemoveAt(0);
+                h.hasEaten = true;
+                availableFood--;
             }
+        }
 
-            food.ClearAll();
-        }
-        else
+        foreach (var h in game.femaleAdults)
         {
-            food.ConsumeFood(required);
+            if (availableFood > 0)
+            {
+                h.hasEaten = true;
+                availableFood--;
+            }
         }
+
+        for (int i = game.maleAdults.Count - 1; i >= 0; i--)
+        {
+            if (!game.maleAdults[i].hasEaten)
+            {
+                game.maleAdults.RemoveAt(i);
+                totalDeaths++;
+            }
+        }
+
+        for (int i = game.femaleAdults.Count - 1; i >= 0; i--)
+        {
+            if (!game.femaleAdults[i].hasEaten)
+            {
+                game.femaleAdults.RemoveAt(i);
+                totalDeaths++;
+            }
+        }
+
+        if (availableFood == 0)
+            food.ClearAll();
+        else
+            food.ConsumeFood(food.GetFoodCount() - availableFood);
     }
 
     void EndTurn()
@@ -148,7 +171,7 @@ public class MainGame : MonoBehaviour
     {
         isGameOver = true;
 
-        mainPanel.SetActive(false);
+        //mainPanel.SetActive(false);
         StartCoroutine(animator.Show(defeatPanel));
 
         defeatText.text =
@@ -162,7 +185,7 @@ public class MainGame : MonoBehaviour
     void ShowMain()
     {
         StartCoroutine(animator.Hide(questionPanel));
-        mainPanel.SetActive(true);
+        //mainPanel.SetActive(true);
         UpdateSummary();
     }
 
@@ -183,7 +206,8 @@ public class MainGame : MonoBehaviour
             "MONTH : " + game.month + "\n\n" +
             "MALES : " + game.maleAdults.Count + "\n" +
             "FEMALES : " + game.femaleAdults.Count + "\n\n" +
-            "BABIES : " + (game.maleBabies.Count + game.femaleBabies.Count) + "\n\n" +
+            "BABIES : " + "\n" +
+            "MALES : "+ game.maleBabies.Count + " | FEMALES : " + game.femaleBabies.Count + "\n\n" +
             "FOOD : " + food.GetFoodCount() + "\n" +
             "MONEY : " + game.money + "$";
     }

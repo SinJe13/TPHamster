@@ -79,7 +79,7 @@ public class GameLogic
         foreach (var h in maleBabies) h.age++;
         foreach (var h in femaleBabies) h.age++;
 
-        // bébés -> adultes (>=2 mois)
+        // bébés -> adultes (2 mois)
         for (int i = maleBabies.Count - 1; i >= 0; i--)
         {
             if (maleBabies[i].age >= 2)
@@ -98,7 +98,7 @@ public class GameLogic
             }
         }
 
-        // morts vieillesse (>24 mois → 60%)
+        // morts vieillesse (>24 mois -> 60%)
         for (int i = maleAdults.Count - 1; i >= 0; i--)
         {
             if (maleAdults[i].age > 24 && rand.Next(0, 100) < 60)
